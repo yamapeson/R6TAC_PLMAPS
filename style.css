@@ -537,7 +537,7 @@ input[name="tab_item"] {
 /*選択されているタブのコンテンツのみを表示*/
 #themepark2f:checked ~ #themepark2f,
 #themepark1f:checked ~ #themepark1f,
-#oregon2f:checked ~ #oregonf,
+#oregon2f:checked ~ #oregon2f,
 #oregon1f:checked ~ #oregon1f,
 #cafe3f:checked ~ #cafe3f,
 #cafe2f:checked ~ #cafe2f,
